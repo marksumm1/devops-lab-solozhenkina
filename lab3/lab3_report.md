@@ -1,12 +1,12 @@
-University: [ITMO University](https://itmo.ru/ru/)  
-Faculty: [FICT](https://fict.itmo.ru)  
-Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
-Year: 2025/2026  
-Group: U4225  
-Author: Solozhenkina Elizaveta  
-Lab: Lab3  
-Date of create: 15.09.2026  
-Date of finished: —  
+Университет: [Университет ИТМО](https://itmo.ru/ru/)  
+Факультет: [Факультет информационно-коммуникационных технологий](https://fict.itmo.ru)  
+Дисциплина: [Введение в веб-технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)  
+Учебный год: 2025/2026  
+Группа: U4225  
+Автор: Соложенкина Елизавета  
+Лабораторная работа: №3  
+Дата создания: 15.09.2026  
+Дата завершения: —   
 
 # Лабораторная работа №3. Мониторинг с Prometheus и Grafana
 
