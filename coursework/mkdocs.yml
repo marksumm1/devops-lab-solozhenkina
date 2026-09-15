@@ -1,0 +1,44 @@
+site_name: Елизавета Соложенкина
+site_description: Персональный сайт
+site_author: Елизавета Соложенкина
+site_url: https://marksumm1.github.io/devops-lab-solozhenkina/
+
+theme:
+  name: material
+  language: ru
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Переключить на тёмную тему
+
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Переключить на светлую тему
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - md_in_html
